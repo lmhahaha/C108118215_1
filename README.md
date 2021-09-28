@@ -20,3 +20,36 @@
 
 ![fig](16.jpg "")
 
+- [ ] to do list
+- [X] none
+
+*斜體*
+**粗體**
+***粗斜體***
+~~刪除線~~
+
+* 嗨1
+* 嗨2
+* 嗨3
+1. T1
+2. T2
+3. T3
+```Python
+S = "Python syntax highlight"
+print s
+```
+```javascript
+var s = "javascript syntax highlight"
+alert (s);
+```
+| Tables          | Are                |  Cool            |
+| :-------------  | :----------------: |  --------------: |
+|  clo 3 is       |   right-alighed    |   $16000         |
+|  clo 2 is       |     centered       |   $12            |
+|  zebra stripes  |     are neat       |   $1             |
+   
+| Markdown        | Less               |      Pretty      |
+| :-------------- | :---------------   |  :-------------: |
+|  *Still*        |  renders           |    **nicely**    |
+|  1              |  2                 |         3        |
+      
